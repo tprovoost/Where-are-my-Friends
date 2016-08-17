@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Where Are My Friends</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="use_theme_header">Use theme:</string>
+    <string name="default_theme">Default theme</string>
+    <string name="auth_providers_header">Use auth providers:</string>
+    <string name="email_label">Email</string>
+    <string name="facebook_label">Facebook</string>
+    <string name="google_label">Google</string>
+    <string name="tos_header">Terms of Service URL:</string>
+    <string name="google_tos_label">Google TOS</string>
+    <string name="firebase_tos_label">Firebase TOS</string>
+    <string name="logo_header">Logo:</string>
+    <string name="firebase_logo_label">Firebase Auth</string>
+    <string name="google_logo_label">Google</string>
+    <string name="no_logo_label">None</string>
+    <string name="google_label_missing_config">Google - configuration missing</string>
+    <string name="facebook_label_missing_config">Facebook - configuration missing</string>
+</resources>
